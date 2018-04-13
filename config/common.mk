@@ -54,6 +54,9 @@ PRODUCT_COPY_FILES += \
 # SELinux Policy
 -include vendor/carbon/sepolicy/sepolicy.mk
 
+# Include Pixel files
+include vendor/carbonpixel/pixel.mk
+
 # Add our overlays
 PRODUCT_PACKAGE_OVERLAYS += vendor/carbon/overlay/common
 
