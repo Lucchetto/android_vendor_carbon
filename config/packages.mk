@@ -22,10 +22,7 @@ PRODUCT_PACKAGES += \
 
 # Additional apps
 PRODUCT_PACKAGES += \
-    Launcher3 \
-    Quarks \
     OmniStyle \
-    VanillaMusic \
     Turbo \
     CarbonDelta
 
