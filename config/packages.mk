@@ -24,6 +24,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Audio FX \
     OmniStyle \
+    Recorder \
     Turbo \
     CarbonDelta
 
