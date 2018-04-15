@@ -22,6 +22,7 @@ PRODUCT_PACKAGES += \
 
 # Additional apps
 PRODUCT_PACKAGES += \
+    Audio FX \
     OmniStyle \
     Turbo \
     CarbonDelta
