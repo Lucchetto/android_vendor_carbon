@@ -22,7 +22,7 @@ PRODUCT_PACKAGES += \
 
 # Additional apps
 PRODUCT_PACKAGES += \
-    Audio FX \
+    AudioFX \
     OmniStyle \
     Recorder \
     Turbo \
