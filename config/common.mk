@@ -54,6 +54,9 @@ PRODUCT_COPY_FILES += \
 # SELinux Policy
 -include vendor/carbon/sepolicy/sepolicy.mk
 
+# Lineage SDK
+include vendor/carbon/config/lineage_sdk_common.mk
+
 # Include Pixel files
 include vendor/carbonpixel/pixel.mk
 
